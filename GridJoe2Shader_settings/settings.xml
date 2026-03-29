@@ -5,4 +5,15 @@
     <fps>60</fps>
     <wireframe>1</wireframe>
     <disp_grid_size>5</disp_grid_size>
+    <delay_counter>0</delay_counter>
+    <life_counter>40</life_counter>
+    <respawn_counter>50</respawn_counter>
+    <global_chaos>0.03</global_chaos>
+    <reset>0</reset>
+    <target_speed_min>0.01</target_speed_min>
+    <target_speed_max>0.05</target_speed_max>
+    <target_click_odds>0.1</target_click_odds>
+    <target_choose_odds>0.01</target_choose_odds>
+    <target_time_interval>200</target_time_interval>
+    <target_min_dist>5</target_min_dist>
 </settings>
