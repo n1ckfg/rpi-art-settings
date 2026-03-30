@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <settings>
-    <width>200</width>
-    <height>200</height>
+    <width>120</width>
+    <height>120</height>
     <fps>60</fps>
     <wireframe>1</wireframe>
-    <disp_grid_size>5</disp_grid_size>
+    <disp_grid_size>8</disp_grid_size>
     <delay_counter>0</delay_counter>
     <life_counter>40</life_counter>
     <respawn_counter>50</respawn_counter>
